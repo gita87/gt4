@@ -6,3 +6,5 @@ print(c)
 
 print("joojoo")
 print("branch cabang aznil")
+print("didopdoddoododo")
+print("1111111")
